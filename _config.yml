@@ -1,0 +1,17 @@
+name: Greg Harvey
+markdown: kramdown
+plugins:
+  - jekyll-feed
+title: Greg Harvey
+description: CV and personal site of Greg Harvey, currently Business Development Director at Code Enigma.
+author: Greg Harvey
+feed:
+  collections:
+    - blog
+defaults:
+  -
+    scope:
+      path: "assets"
+collections:
+  blog:
+    output: true
