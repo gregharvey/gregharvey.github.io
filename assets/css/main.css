@@ -11,6 +11,14 @@ footer .container {
     color: darkgrey;
 }
 
+form {
+    margin: auto;
+}
+
 form label {
     clear: both;
+}
+
+form input, textarea {
+    text-align: right;
 }
