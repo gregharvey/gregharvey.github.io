@@ -7,6 +7,23 @@
     <title>{{ page.title }}</title>
   </head>
   <body>
+  	<div class="banner-outer banner-outer-regional">
+
+  	  <header class="banner" role="banner">
+
+{% include banner.html %}
+
+{% include nav.html %}
+
+
+  	  </header>
+    </div>
     {{ content }}
+
+{% include contact-form.html %}
+
+{% include footer.html %}
+
   </body>
+
 </html>
