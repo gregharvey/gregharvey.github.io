@@ -3,3 +3,8 @@
 body {
     font-family: Libre+Baskerville;
 }
+
+footer .container {
+    font-size: small;
+    color: darkgrey;
+}
