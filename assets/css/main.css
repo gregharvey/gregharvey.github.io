@@ -9,3 +9,7 @@ footer .container {
     font-size: small;
     color: darkgrey;
 }
+
+form label {
+    clear: both;
+}
