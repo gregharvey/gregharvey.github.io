@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CMS Professionals Limited
+title: CMS Professionals
 description: CMS Professionals is a UK limited company providing IT and management consultancy services.
 keywords: development, devops, business, management, agile, consultancy
 ---
